@@ -1,0 +1,22 @@
+body {
+	background-color: #9e2a53;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+	text-align: right;
+	margin: 100px;
+	padding: 100px;
+	border: 100px;
+	font-family: roboto;
+}
+
+#aboutPage {
+	margin: 100px;
+	padding: 100px;
+	border: 100px;
+	font-family: roboto;
+	background-color: white;
+	color: #9e2a53;
+}
